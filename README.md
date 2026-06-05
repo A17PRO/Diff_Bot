@@ -37,5 +37,5 @@ Whether someone is locking in Jhin and forgetting how to count to four, or takin
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YourUsername/Diff-Bot.git](https://github.com/A17PRO/tilt-tracker.git)
+git clone [https://github.com/YourUsername/Diff_Bot.git](https://github.com/A17PRO/tilt-tracker.git)
 cd tilt-tracker
